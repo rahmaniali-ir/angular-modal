@@ -1,0 +1,25 @@
+{
+  "name": "@rahmaniali.ir/angular-modal",
+  "version": "0.0.1",
+  "description": "",
+  "keywords": [
+    "modal"
+  ],
+  "author": {
+    "name": "Ali Rahmani",
+    "email": "alirahmani.prog@gmail.com",
+    "url": "https://rahmaniali.ir/"
+  },
+  "homepage": "https://github.com/rahmaniali-ir/angular-modal",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rahmaniali-ir/angular-modal"
+  },
+  "peerDependencies": {
+    "@angular/common": "^15.0.0",
+    "@angular/core": "^15.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
