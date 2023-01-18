@@ -44,7 +44,7 @@ That's it! That's the simplest way you can use angular-modal. If you need to pas
 
 ## Options
 When you are opening a component, you may need to pass some extra information about the modal.  
-These options are: ```input```, ```persistent``` and ```customClass```
+These options are: ```input```, ```persistent``` and ```customClass```.
 
 ### input
 Consider you have a component that accepts input. You can pass these inputs when you are opening a modal by passing the options object:
