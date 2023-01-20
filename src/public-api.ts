@@ -5,3 +5,5 @@
 export * from "./modal/service/modal.service"
 export * from "./modal/service/active-modal.service"
 export * from "./modal/modal.module"
+
+export { ModalOptions } from "./modal/model/modalRef"
