@@ -1,9 +1,12 @@
 {
   "name": "@rahmaniali.ir/angular-modal",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "",
   "keywords": [
-    "modal"
+    "modal",
+    "angular",
+    "typescript",
+    "pop up"
   ],
   "author": {
     "name": "Ali Rahmani",
